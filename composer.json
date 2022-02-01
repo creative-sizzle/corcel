@@ -41,10 +41,5 @@
                 "Corcel\\Laravel\\CorcelServiceProvider"
             ]
         }
-    },
-    "config": {
-        "platform": {
-            "php": "7.2"
-        }
     }
 }
